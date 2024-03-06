@@ -1,0 +1,20 @@
+{
+  "name": "directory_checker",
+  "version": "1.0.0",
+  "description": "Checks for the existence of a specified directory.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "node appTester.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYX1122/Directory_Checker.git"
+  },
+  "author": "BoDee Angus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYX1122/Directory_Checker/issues"
+  },
+  "homepage": "https://github.com/NYX1122/Directory_Checker#readme"
+}
